@@ -256,7 +256,7 @@
           null
         ]
       },
-      "/Users/logancole/turing_work/2mod/solo_project_1/quote_people/set_list/app/models/quote.rb": {
+      "/Users/logancole/turing_work/2mod/solo_project_1/quote_people/set_list/app/models/person.rb": {
         "lines": [
           1,
           1,
@@ -270,18 +270,11 @@
           null
         ]
       },
-      "/Users/logancole/turing_work/2mod/solo_project_1/quote_people/set_list/app/models/person.rb": {
+      "/Users/logancole/turing_work/2mod/solo_project_1/quote_people/set_list/app/controllers/people_controller.rb": {
         "lines": [
           1,
           1,
-          null
-        ]
-      },
-      "/Users/logancole/turing_work/2mod/solo_project_1/quote_people/set_list/app/controllers/quotes_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null,
+          0,
           null,
           null,
           1,
@@ -297,6 +290,6 @@
         ]
       }
     },
-    "timestamp": 1679521575
+    "timestamp": 1679522417
   }
 }
